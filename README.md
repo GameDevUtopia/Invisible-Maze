@@ -1,7 +1,4 @@
 # Invisible-maze
-The source code for invisible maze game 
-Note:- You will require Love2D framework to run thos code.
-The Build is available at https://chouremalhar.itch.io/invisible-maze
 
 Instructions of the game:-
 * Movement is done via W, A, S and D.
